@@ -23,7 +23,3 @@ def window():
 
 window ()
 
-
-def clickasd ():
-    print('abc')
-
